@@ -1,0 +1,776 @@
+.over-img{
+  position: absolute;
+  top: 50%; left: 50%;  transform: translate(-50%,-50%);
+
+  
+  }.id{
+  width: 100%;
+  height: 50vh;
+  background-image: url("../css/ball.jpg");
+  text-align: center;
+  color: #fff;
+  position: relative;
+  bottom: 1rem;
+
+font-size: 3rem;
+  
+    
+    }.in{
+      width: 100%;
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+font-size: 1rem;
+     padding: 3rem;
+     grid-gap: 0rem;
+     margin-top: 5rem;
+        
+        }.in .nn2{
+          width: 40%;
+          height: 50px;
+        background-color: #fff;
+     padding:    15px 24px;  
+    border-radius:6px;   
+  box-shadow: 10px 10px 10px black; 
+       }
+    
+  .btn-danger {padding: 17px 40px;
+  border-radius: 50px;
+  position: relative;
+  left: 0%;
+  border: none;
+}
+    .in .nn3{
+      width: 70%;
+      height: 50px;
+    background-color: #fff;
+ padding:    15px 24px;  
+border-radius:6px; box-shadow: 10px 10px 10px black;           }
+    .slider-img{
+ background-image: url("../css/sd.jpg");
+ height: 100vh;
+ position: relative;
+ color: #fff;
+  bottom:2rem;
+  text-align: center;
+  }.navbar{
+ position: absolute;
+ background: none;
+ top:2%;
+ left:0;
+ z-index: 1;
+     }.navbar  #s{
+    color:#fff ;
+    font-size: 1.5rem;
+          }.btn-primary{
+padding: 17px 40px; 
+border-radius: 50px;
+position: relative;
+left: 30%;
+background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(88,20,121,1)), color-stop(100%, rgba(171,0,229,1)));
+border: none;
+}.navbar  .navbar-brand img{
+width: 50%;        }.over-img p{
+
+  font-size: 3rem;   
+ color: #fff;              }
+ .df{
+border-radius:15px;
+text-align: center; 
+ width: 300px;
+height: 300px;
+background-color: #fff;
+position: relative;
+bottom: 30rem;  
+left: -500px;   
+position: fixed;         }
+
+.df h1{
+cursor: pointer;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 1rem;        }
+
+  .df li{
+   text-decoration: none;        }
+
+  .dropdown-menu{
+   margin-left: 3rem;   
+  position: fixed;     }
+   .over-img .btn-success{
+    padding: 17px 40px; 
+    border-radius: 50px;
+    position: relative;
+    left: 0%;
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(88,20,121,1)), color-stop(100%, rgba(171,0,229,1)));
+    border: none;
+    }
+
+
+.divide{
+
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+  padding: 0rem;
+}.divide .c1{
+margin-left: 10rem;
+  
+}.divide .c2 h1{
+  margin-top: 5rem;
+
+  
+}
+.divide .btn-success{
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(88,20,121,1)), color-stop(100%, rgba(171,0,229,1)));
+
+  border-radius: 50px;
+}.divide .btn-success:hover{
+
+  border: 1px solid rgba(88,20,121,1);
+}.hardone{
+
+  width: 100%;
+  height: 100%;
+  background-image: url("../css/fgg.jpg");
+  display: grid;
+  background-size:cover ;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+  grid-gap: 1rem;
+  padding: 4rem;
+  
+  
+  
+  
+  }.hardone .btn{
+
+   position: relative;
+   bottom: 6rem;
+   left: -.5%;
+   padding: 10px 10px;
+   border-radius:1px;
+   font-size: 1rem; 
+    
+    
+    }.hardone p{
+color: #fff;
+      position: relative;
+      bottom: 6rem;
+      left: -.5%;
+      padding: 10px 10px;
+      border-radius:1px;
+      font-size: 1rem; 
+       
+       
+       }.nex{
+         margin-top: 3rem;
+       width: 100%;
+       background-color: rgb(255, 255, 255);
+       height: 40vh;
+               
+               position: relative;
+               }.nex img{
+                
+                    
+                      margin-left: 40%;
+
+                       
+                       }.nex h2{
+                        bottom: 6rem;
+                            font-size: 4rem;   
+                            position: relative;           
+                               
+                            margin-left: 30%;
+
+                               }.nex p{
+                                color: #777777;
+                            text-align: center;
+                                       font-size: 1rem;
+                                      position: relative;
+                                       bottom: 3rem;
+                                       }.cards {
+                                        width: 100%;
+
+                                        background-color: #fff;
+                                               }.tree {
+                                                width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+grid-gap: 1rem;
+padding: 1rem;
+text-align:center ;
+
+
+                                                background-color: #fff;
+                                                       }.cards h4{
+                                               color: #777777;
+                                                       }.cards span{
+                
+                                                      color: #9a28d7;
+                                                               }.cards p{
+                        
+                                                                color: #777777;
+                                                              }
+                                                              
+                                                              
+                                                              .cards h5{
+                                                                color: #bec0cc
+                                                                ;
+                                                                border-bottom: 1px solid #777777;
+                                                              }
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              .cards h1{
+                                                display: flex;
+                                                justify-content: center;
+                                                align-items: center;
+                                                position: relative;
+                                             left: 7rem;
+                                             top: 3rem;
+                                                width: 78px;
+                                                height: 78px;
+                                                border: 2px solid #fff;
+                                                border-radius: 50%;
+                                                font-size: 22px;
+                                                font-weight: bold;
+                                                color: #fff;
+                                                background: #9a28d7;
+                                                       }.mainSlider{
+                                                        z-index: 1000;
+                                                       height: 400px;
+                                                                   background:none;
+                                                                   position: relative;
+margin-left: 38rem;                                                                   top: 20rem;                                                       
+                                                       }.slickSlider{
+                                                             width:50%;
+                                                               height: 400px;
+                                                             
+                                                           background-color: none;
+                                                                   
+                                                             
+                                                                  }
+                                                                  
+                                                                
+                                                                
+                                                       .item{
+                                                         line-height: 891px;
+                                                         text-align: center;
+                                                           
+                                                               
+                                                         
+                                                              } .item .lk{
+                                                                margin-left: 2rem;
+                                                                
+                                                                     }  .semi{
+                                                             height: 200vh;
+                                                             background-image: url("../css/fall.jpg");
+                                                                  text-align: center;
+                                                                      
+                                                                
+                                                                     } .semi h1{
+                                                                     position: relative;
+                                                                      top: 15rem;
+                                                                      text-align: center;
+                                                                      color: #fff;
+                                                                      font-size: 4rem;
+                                                                         
+                                                                              }.semi h3{
+                                                                    font-size: 1rem;
+                                                                           font-weight: bold;
+                                                                           color: #fff;
+                                                                               
+                                                                         
+                                                                              }.semi h6{
+                                                                                font-size: 1rem;
+
+                                                                                font-weight: bold;
+                                                                                color: #fff;
+                                                                                    
+                                                                              
+                                                                                   }.semi  span{
+                                                                    
+                                                                                   
+                                                                                      color: #9a28d7;
+                                                                                    
+                                                                                        
+                                                                                  
+                                                                                       }
+                                                                                       .footer div{
+                                                                                        margin-left: 48%;
+                                                                                                   color: #fff;                                                         
+                                                                                                                                                      
+                                                                                                                                                           }
+                                                                                       .footer{
+                        width: 100;
+                        background-color: #08011e;                                            position: relative;
+                                                                    
+height: 80vh;                                                                                      
+                                                                                    bottom: 0rem;      
+                                                                                    
+                                                                                         }
+                                                                                         .footer img{
+                                                                                        margin-left: 45%;
+                                                                                        margin-top: 10rem;                                             
+                                                                                                                                                            
+                                                                                                                                                      
+                                                                                                                                                           }   .footer p{
+                                                                                                                                                            margin-left: 30%;
+                                                                                                                                                                       color: #fff;                                                         
+                                                                                                                                                                                                                          
+                                                                                                                                                                                                                               }
+                                                                                       .prev{
+                                                                    
+                                                                                   
+position: relative;
+top:30%;           margin-left: 7rem;                                                                           
+                                                                                          
+                                                                                    
+                                                                                         }.scrollTop{
+                                                                                          position: fixed;
+                                                                                          right: 10%;
+                                                                                          justify-content: center;
+                                                                                          display: flex;
+                                                                                          bottom: 10px;
+                                                                                          background-color: #BE3F48;
+                                                                                          padding: 20px;
+                                                                                          opacity: 0;
+                                                                                          transition: all 0.4s ease-in-out 0s;
+                                                                                          border-radius: 50%;
+                                                                                          font-size: 1rem;
+                                                                                          color: #fff;
+                                                                                          cursor: pointer;
+                                                                                        }
+                                                                                        .hope{
+                                                                    
+                                                                                   position: relative;
+                                                                                   top:30%;
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                      width: 100%;
+                                                                                      display: grid;
+                                                                                      grid-template-columns: 1fr 1fr 1fr 1fr;
+                                                                                      padding: 1rem;
+                                                                                      grid-gap:1rem;
+
+                                                                                                                                                                                    
+                                                                                                                                                                              
+                                                                                                                                                                                   }.prev h2{
+                                                                    
+                                                                                   
+                                                                                          position: relative;
+                                                                                          bottom:6rem;                                                                               
+                                                                                                  color: #fff;                                                                                  
+                                                                                              font-size: 3rem;                                                                                
+                                                                                                                                                                                   }
+@media only screen and (min-width: 320px) and (max-width: 1000px) and  (orientation:portrait ){
+  .footer{
+    width: 100;
+    background-color: #08011e;                                            position: relative;
+    top: 28rem;
+                                                               
+height: 70vh;                                                                                      
+                                                                      
+                                                                
+                                                                     } .footer img{
+                                                                      margin-left: 20%;
+                                                                      margin-top: 10rem;                                             
+                                                                                                                                          
+                                                                                                                                    
+                                                                                                                                         }     .footer div{
+                                                                                                                                          margin-left: 30%;
+                                                                                                                                                     color: #fff;                                                         
+                                                                                                                                                                                                        
+                                                                                                                                                                                                             }    .footer p{
+                                                                                                                                                                                                              margin-left: 1%;
+                                                                                                                                                                                                                         color: #fff;  
+                                                                                                                                                                                                                         text-align: center;                                                       
+                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                 }.id{
+    width: 100%;
+    height: 100%;
+    background-image: url("../css/ball.jpg");
+    text-align: center;
+    color: #fff;
+  position: relative;
+  top: 28rem;
+  font-size: 3rem;
+    
+      
+      } .btn-danger {padding: 17px 40px;
+        border-radius: 50px;
+        position: relative;
+        border: none;
+        top: 1rem;
+      }
+      .id p{
+        
+      font-size: 1rem;
+        
+          
+          }
+      .in{
+        width: 100%;
+       display: grid;
+       grid-template-columns: 1fr;
+  font-size: 1rem;
+       padding: 3rem;
+       grid-gap: 0rem;
+       margin-top: 5rem;
+          
+          }.prev{
+                                                                    
+                                                                                   
+    position: relative;
+    top:30%;           margin-left: 1rem;                                                                           
+                                                                                              
+                                                                                        
+                                                                                             } .semi{
+    height: 200vh;
+    background-image: url("../css/fall.jpg");
+         text-align: center;
+             
+       
+            } .hope{
+                                                                    
+    position: relative;
+    top:30%;
+       width: 100%;
+       display: grid;
+       grid-template-columns:  1fr;
+       padding: 1rem;
+       grid-gap:1rem;
+background-color: #300f5a;
+                                                                                                     
+                                                                                               
+                                                                                                    }.mainSlider{
+    z-index: 1000;
+   height: 400px;
+               background:none;
+               position: relative;
+margin-left: 0rem;                                                                   top: 20rem;                                                       
+   }.slickSlider{
+    width:100%;
+      height: 400px;
+    
+  background-color: none;
+          
+    
+         }
+         
+  .tree {
+    width: 100%;
+display: grid;
+grid-template-columns: 1fr ;
+grid-gap: 1rem;
+padding: 1rem;
+text-align:center ;
+
+
+    background-color: #fff;
+           }
+           .tree img {
+            width: 80%;
+
+                   }
+  .hardone{
+
+    width: 100%;
+    height: 100%;
+    background-image: url("../css/fgg.jpg");
+    display: grid;
+    background-size:cover ;
+    grid-template-columns: 1fr  ;
+    grid-gap: 1rem;
+    padding: 1rem;
+    
+    
+    
+    
+    }.nex h2{
+      bottom: 5rem;
+          font-size: 2rem;   
+          position: relative;           
+             
+          margin-left: 30%;
+
+             } .hardone .d1 img{
+
+      width: 80%;
+      height: 100%;
+     
+      
+      
+      
+      }.hardone .d5 img{
+
+        width: 80%;
+        height: 100%;
+        
+        
+        }.divide .c1{
+    margin-left: 0rem;
+    width: 100%;
+      
+    } .divide .c1 img{
+      margin-left: 0rem;
+      width: 100%;
+        
+      }.divide .c2 h1{
+      margin-top: 5rem;
+    font-size: 1rem;
+      
+    }
+  .over-img{
+
+    font-size: 1.5rem;
+    position: relative;
+    top: 22rem;
+    left: 0%;   
+    transform: translate(0%,0%);
+   color: #fff;              }.over-img p{
+   
+    font-size: 1.5rem;
+    
+   color: #fff;              } .btn-primary{
+    padding: 17px 40px; 
+    border-radius: 50px;
+    position: relative;
+    left: 0%;
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(88,20,121,1)), color-stop(100%, rgba(171,0,229,1)));
+    border: none;
+    }
+    .df{
+
+     
+     bottom: 10rem;  
+             }
+             .divide{
+text-align: center;
+              width: 100%;
+              display: grid;
+              grid-template-columns: 1fr;
+              grid-gap: 1rem;
+              padding: 0rem;
+            }
+            
+             .id .nn2,.nn3{
+             width: 100%;
+                          }
+                          .id .nn3{
+                            width: 100%;
+                                         }
+    }
+      @media only screen and (min-width: 320px) and (max-width: 1000px) and  (orientation:landscape ){
+        
+        
+        .footer img{
+          margin-left: 40%;
+          margin-top: 0rem;                                             
+                                                                              
+                                                                        
+                                                                             }   .footer p{
+                                                                              margin-left: 1%;
+                                                                                         color: #fff; 
+                                                                                         text-align: center;                                                        
+                                                                                                                                            
+                                                                                                                                                 }
+        
+        
+        
+        
+        
+        
+        .footer{
+          width: 100;
+          background-color: #08011e;                                            position: relative;
+          top: 43rem;
+                                                                     
+      height: 70vh;                                                                                      
+                                                                            
+                                                                      
+                                                                           } 
+        
+        
+        .id{
+          width: 100%;
+          height: 100%;
+          background-image: url("../css/ball.jpg");
+          text-align: center;
+          color: #fff;
+        position: relative;
+        top: 44rem;
+        font-size: 3rem;
+          
+            
+            } .btn-danger {padding: 17px 40px;
+              border-radius: 50px;
+              position: relative;
+              border: none;
+              top: 1rem;
+            }
+            .id p{
+              
+            font-size: 1rem;
+              
+                
+                }
+            .in{
+              width: 100%;
+             display: grid;
+             grid-template-columns: 1fr;
+        font-size: 1rem;
+             padding: 3rem;
+             grid-gap: 0rem;
+             margin-top: 5rem;
+                
+                } .prev{
+                                                                    
+                width: 100%;
+                background-color:  #300f5a;                                                                  
+          position: relative;color: #000;
+          top:30%;           margin-left: 0rem;  
+          margin-bottom: 0;                                                                         
+                                                                                                    
+                                                                                              
+                                                                                                   } .hope{
+                                                                    
+          position: relative;
+          top:28%;
+             width: 100%;
+             display: grid;
+             grid-template-columns:  1fr;
+             padding: 1rem;
+             grid-gap:1rem;
+      background-color: #300f5a;
+                                                                                                           
+                                                                                                     
+                                                                                                          } .mainSlider{
+                                                                                                            z-index: 1000;
+                                                                                                           height: 400px;
+                                                                                                                       background:none;
+                                                                                                                       position: relative;
+                                                    margin-left: 0rem;                                                                   top: 10rem;                                                       
+                                                                                                           }.slickSlider{
+                                                                                                            width:100%;
+                                                                                                              height: 400px;
+                                                                                                            
+                                                                                                          background-color: none;
+                                                                                                                  
+                                                                                                            
+                                                                                                                 }.semi h1{
+                                                                                                                  position: relative;
+                                                                                                                   top: 1rem;
+                                                                                                                   text-align: center;
+                                                                                                                   color: rgb(0, 0, 0);
+                                                                                                                   font-size: 4rem;
+                                                                                                                      
+                                                                                                                           }.tree {
+          width: 100%;
+      display: grid;
+      grid-template-columns: 1fr ;
+      grid-gap: 1rem;
+      padding: 1rem;
+      text-align:center ;
+      
+      
+          background-color: #fff;
+                 }.nex h2{
+          bottom: 5rem;
+              font-size: 2rem;   
+              position: relative;           
+                 
+              margin-left: 30%;
+    
+                 } .hardone{
+
+          width: 100%;
+          height: 100%;
+          background-image: url("../css/fgg.jpg");
+          display: grid;
+          background-size:cover ;
+          grid-template-columns: 1fr  ;
+          grid-gap: 1rem;
+          padding: 1rem;
+          
+          
+          
+          
+          }
+        .dropdown-menu{
+          margin-left: 3rem; 
+        margin-top: 17rem;
+        
+        }  
+          
+          
+          
+          
+          
+          .btn-primary{
+        padding: 17px 40px; 
+        border-radius: 50px;
+        position: relative;
+        left: 0%;
+        background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(88,20,121,1)), color-stop(100%, rgba(171,0,229,1)));
+        border: none;
+        }.divide .c1{
+          margin-left: 1rem;
+          width: 90%;
+            
+          }.divide .c1 img{
+            margin-left: 0rem;
+            width: 100%;
+              
+            }.divide{
+text-align: center;
+          width: 100%;
+          display: grid;
+          grid-template-columns:  1fr;
+          grid-gap: 1rem;
+          padding: 0rem;
+        }
+      .over-img{
+    
+        font-size: 1.5rem;
+        position: relative;
+        top: 10rem;
+        left: 0%;   
+        transform: translate(0%,0%);
+       color: #fff;              }.over-img p{
+    
+        font-size: 1.5rem;
+        
+       color: #fff;              }.slider-img{
+        background-image: url("../css/sd.jpg");
+        height: 100vh;
+        position: relative;
+        color: #fff;
+         bottom:2rem;
+         text-align: center;
+         }
+      
+         .dropdown-menu .dropdown-item{
+        font-size: 1rem;
+           }
+           
+          
+           .df{
+
+           height: 200px;
+           bottom: 4rem;  
+              
+           position: fixed;         }
+            
+           .dropdown-menu{
+            margin-left: 3rem; 
+          margin-top: 12rem;
+          
+          }  
+          
+             
+        }   
